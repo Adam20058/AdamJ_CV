@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: #fcf1f1;
+  font-family: 'Open Sans', sans-serif;
+  color: #1a1c20; 
+  line-height: 1.64;
+  height: 100%;
+}
+
+.school-site {
+  text-decoration: none;
+}
+
+hr {
+  border-color: #ffd5cd;
+}
+
+.work-exp {
+  margin-bottom: 30px;
+}
+
+.exp {
+  text-decoration: none;
+}
+
+.footer .social > * {
+  margin-right: 30px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 150px;
+  margin-top: 20px;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #ffd5cd;
+}
+
+.footer .social > * {
+  margin-right: 30px;
+}
+
+.bg-dark {
+  background: #f9813a;
+  color: #fff;
+  border-radius: 5px;
+}
