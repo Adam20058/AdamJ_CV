@@ -292,6 +292,7 @@ hr {
   border-radius: 5px;
 }
 
+
 /* some extra animation for my links */
 .fa-github:hover {
   -webkit-animation: fa-spin 2s infinite linear;
