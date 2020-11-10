@@ -107,10 +107,6 @@ hr {
   text-decoration: none;
 }
 
-.footer .social > * {
-  margin-right: 30px;
-}
-
 .footer {
   display: flex;
   flex-direction: column;
@@ -137,6 +133,11 @@ hr {
   background: #f9813a;
   color: #fff;
   border-radius: 5px;
+}
+
+.footer p {
+  /* margin-top: 1px; */
+  text-align: center;
 }
 
 
