@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', function () {
     directionY: 'up',
     density: 8900,
     particleRadius: 0,
-    // curvedLines: true,
     proximity: 200,
   });
   var intro = document.getElementById('intro');
