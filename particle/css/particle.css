@@ -1,3 +1,6 @@
+/* I want to add a light and dark mode that has contrasting colors */
+/* green and black VS orange and white */
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -101,7 +104,7 @@ p {
   display: inline-block;
   padding: 15px 30px;
   border: 2px solid #fff;
-  border-radius: 5px;
+  border-radius: 20px;
   text-transform: uppercase;
   letter-spacing: 0.015em;
   font-size: 18px;
