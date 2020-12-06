@@ -264,8 +264,10 @@ p {
   /* text-decoration: none; */
 }
 
-.footer a:hover {
-  color: #ffd5cd;
+.coffee a:hover {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bolder;
 }
 
 .footer .social > * {
@@ -276,6 +278,10 @@ p {
   /* background: #f9813a; */
   color: #fff;
   border-radius: 5px;
+}
+
+.coffee {
+  margin-top: 10px;
 }
 
 .coffee a{
