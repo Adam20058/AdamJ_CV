@@ -137,6 +137,7 @@ html, body {
 
 body {
   background: #f9813a;
+  background-image: ;
   font-family: 'Waiting for the Sunrise', sans-serif;
   color: #fff;
   line-height: 1.3;
@@ -256,7 +257,7 @@ p {
   justify-content: center;
   text-align: center;
   height: 169.75px;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 .footer a {
