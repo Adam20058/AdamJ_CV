@@ -265,12 +265,6 @@ p {
   /* text-decoration: none; */
 }
 
-.coffee a:hover {
-  color: #fff;
-  font-size: 20px;
-  font-weight: bolder;
-}
-
 .footer .social > * {
   margin-right: 30px;
 }
@@ -283,14 +277,20 @@ p {
 
 .coffee {
   margin-top: 10px;
+  font-size: 20px;
 }
 
 .coffee a{
   text-decoration: none;
   text-align: center;
-  font-size: 18px;
+  font-size: 25px;
 }
 
+.coffee a:hover {
+  color: #fff;
+  font-size: 35px;
+  font-weight: bolder;
+}
 
 /* some extra animation for my links */
 
