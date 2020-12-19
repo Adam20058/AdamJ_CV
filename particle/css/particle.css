@@ -159,6 +159,7 @@ p {
   text-decoration: none;
   box-shadow: 0 2px 3px rgba(0,0,0,.5);
   border: none!important;
+  text-align: center;
 }
 .btn:hover {
   background: #ff5e62;
@@ -168,10 +169,10 @@ p {
 /* footer */
 
 .footer {
-  display: flex;
+  display: flex; 
   flex-direction: column;
   justify-content: center;
-  text-align: center;
+  text-align: center; 
   height: 169.75px;
   margin-top: 30px;
 }
@@ -184,6 +185,10 @@ p {
   margin-right: 30px;
 }
 
+.social
+{
+  margin-right: -20px;
+}
 .bg-dark {
   color: #fff;
   border-radius: 5px;
