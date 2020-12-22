@@ -98,7 +98,6 @@ html, body {
 
 body {
   background: linear-gradient(to bottom,#ff9966,#ff5e62);
-  background-image: ;
   font-family: 'Rubik', serif;
   color: #fff;
   line-height: 1.3;
@@ -219,13 +218,14 @@ p {
 .faa-parent.animated-hover:hover > .faa-shake {
   -webkit-animation: wrench 2.5s ease infinite;
   animation: wrench 2.5s ease infinite;
+  color: hsl(10, 100%, 45.5%);;
 }
 
 
-/* Dark Mode????*/
+/* Dark Mode????
 .dark-mode {
-  background-color: black;
-  color: white;
-}
+  background: linear-gradient(to bottom,#bdc3c7,#2c3e50);
+lineColor: #fff;
+} */
 
 
