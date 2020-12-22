@@ -218,7 +218,7 @@ p {
 .faa-parent.animated-hover:hover > .faa-shake {
   -webkit-animation: wrench 2.5s ease infinite;
   animation: wrench 2.5s ease infinite;
-  color: hsl(10, 100%, 45.5%);;
+  /* color: hsl(10, 100%, 45.5%); */
 }
 
 
