@@ -3,7 +3,7 @@
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Adam20058/AdamJ_CV)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://www.adamjemal.com)
 [![Author](https://img.shields.io/badge/Author-Adam%20Jemal-blue.svg)](https://www.linkedin.com/in/adamjemal/)
-[![Latest Release](https://img.shields.io/vaadin-directory/release-date-yellow.svg)](https://github.com/Adam20058/AdamJ_CV/commit/main)
+![Latest Release](https://img.shields.io/github/last-commit/Adam20058/AdamJ_CV)
 
  <p align="justify">This website serves as my online portfolio to showcase my featured projects and resume, with a particle.js aligned theme. It was made using using vanilla JS, HTML, CSS, and ❤️.</p>
 
