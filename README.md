@@ -1,7 +1,7 @@
 # <a href="https://www.adamjemal.com/" target="_blank">My Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Adam20058/AdamJ_CV)
-[![Latest Release](https://img.shields.io/github/last-commit/Adam20058/AdamJ_CV)
+![Latest Release](https://img.shields.io/github/last-commit/Adam20058/AdamJ_CV)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://www.adamjemal.com)
 [![Author](https://img.shields.io/badge/Author-Adam%20Jemal-blue.svg)](https://www.linkedin.com/in/adamjemal/)
 
