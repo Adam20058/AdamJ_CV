@@ -1,4 +1,4 @@
-# <a href="https://www.adamjemal.com/" target="_blank">My Portfolio Website</a>
+# <a href="https://www.adamjemal.com/" target="_blank">Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Adam20058/AdamJ_CV)
 ![Latest Release](https://img.shields.io/github/last-commit/Adam20058/AdamJ_CV)
@@ -7,4 +7,15 @@
 
  <p align="justify">This website serves as my online portfolio to showcase my featured projects and resume, with a particle.js aligned theme. It was made using using vanilla JS, HTML, CSS, and ❤️.</p>
 
+## Demo
+
+Check out my site at
+https://www.adamjemal.com/
+
 ![My Portfolio Website](./img/AdamJ_PortfolioSite.gif)
+
+## Technologies Used
+
+- JavaScript
+- HTML
+- CSS
