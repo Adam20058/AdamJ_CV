@@ -5,7 +5,7 @@
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://www.adamjemal.com)
 [![Author](https://img.shields.io/badge/Author-Adam%20Jemal-blue.svg)](https://www.linkedin.com/in/adamjemal/)
 
- <p align="justify">This website serves as my online portfolio to showcase my featured projects and resume, with a particle.js aligned theme. It was made using using vanilla JS, HTML, CSS, and ❤️.</p>
+ <p align="justify">This website serves as my online portfolio to showcase my featured projects and resume, with a particle.js aligned theme. It was made using using vanilla JS, HTML, CSS, and ❤️</p>
 
 ## Demo
 
